@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class GitTest : MonoBehaviour {
-
+	Private int firstNewVariableAdded = 12; 	
+	
 	// Use this for initialization
 	void Start () {
 	
